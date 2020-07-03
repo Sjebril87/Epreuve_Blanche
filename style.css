@@ -1,0 +1,22 @@
+.container {
+    width: 1000px;
+    height: 700px;
+
+}
+.start {
+  width: 700px;
+  height: 200px;
+  background-image: url(working.jpg);
+  background-size: 600px 200px;
+  background-position-x: center;
+  margin: auto;
+  background-repeat: no-repeat;
+}
+.body {
+    width: 700px;
+    height: 300px;
+}
+.end {
+    width: 700px;
+    height: 200px;
+}
